@@ -204,3 +204,6 @@ Started GET "/pages" for 172.72.236.22 at 2019-11-13 12:10:49 +0000
 Processing by PagesController#index as HTML
   Rendering pages/index.html.erb within layouts/application
   Rendered pages/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 1269ms (Views: 1267.1ms | ActiveRecord: 0.0ms)
+
+
