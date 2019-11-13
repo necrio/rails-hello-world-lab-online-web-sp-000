@@ -6,7 +6,7 @@ class PagesController < ApplicationController
     render :plain => "Hello World"
   end 
   
-  def index
+  def hello_world
     
   end 
 end
